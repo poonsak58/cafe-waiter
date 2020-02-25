@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cafe-waiter/static/css/main.34befe83.chunk.css",
+    "main.js": "/cafe-waiter/static/js/main.72118f90.chunk.js",
+    "main.js.map": "/cafe-waiter/static/js/main.72118f90.chunk.js.map",
+    "runtime-main.js": "/cafe-waiter/static/js/runtime-main.e8e1dcfd.js",
+    "runtime-main.js.map": "/cafe-waiter/static/js/runtime-main.e8e1dcfd.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/cafe-waiter/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.eca1b1ad.chunk.js": "/cafe-waiter/static/js/2.eca1b1ad.chunk.js",
+    "static/js/2.eca1b1ad.chunk.js.map": "/cafe-waiter/static/js/2.eca1b1ad.chunk.js.map",
+    "index.html": "/cafe-waiter/index.html",
+    "precache-manifest.f85b98d558a064b0643963120c596d9f.js": "/cafe-waiter/precache-manifest.f85b98d558a064b0643963120c596d9f.js",
+    "service-worker.js": "/cafe-waiter/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/cafe-waiter/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.34befe83.chunk.css.map": "/cafe-waiter/static/css/main.34befe83.chunk.css.map",
+    "static/js/2.eca1b1ad.chunk.js.LICENSE.txt": "/cafe-waiter/static/js/2.eca1b1ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8e1dcfd.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.eca1b1ad.chunk.js",
+    "static/css/main.34befe83.chunk.css",
+    "static/js/main.72118f90.chunk.js"
+  ]
+}
